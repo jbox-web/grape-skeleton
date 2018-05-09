@@ -1,7 +1,6 @@
 # Grape Skeleton
 
 [![GitHub license](https://img.shields.io/github/license/jbox-web/grape-skeleton.svg)](https://github.com/jbox-web/grape-skeleton/blob/master/LICENSE)
-[![Dependency Status](https://gemnasium.com/badges/github.com/jbox-web/grape-skeleton.svg)](https://gemnasium.com/github.com/jbox-web/grape-skeleton)
 
 A skeleton for Grape application.
 
