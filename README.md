@@ -31,9 +31,9 @@ nicolas@desktop: bundle install
 nicolas@desktop: bin/foreman start
 ```
 
-You can then go to your browser and check `http://127.0.0.1:5000/api/v1`
+You can then go to your browser and check [http://127.0.0.1:5000/api/v1](http://127.0.0.1:5000/api/v1).
 
-Api endpoints are located in lib/grape_skeleton/api/base.rb
+Api endpoints are located in [lib/grape_skeleton/api/base.rb](lib/grape_skeleton/api/base.rb).
 
 You can customize environment variables by creating a `.env` file at the root of the project :
 
